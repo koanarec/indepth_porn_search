@@ -1,8 +1,6 @@
 from urllib.request import urlopen
 from datetime import datetime
 import re
-import subprocess
-import sys
 
 #url is the url of pornhub you are looking for, remove the number of the page you are looking for, you might need to go onto page 2 for pagenum to appear
 #Length_search is the length of the video you are looking for, in seconds..
