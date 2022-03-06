@@ -4,8 +4,8 @@ import re
 import subprocess
 import sys
 
-#url is the url of pornhub you are lookign for, remove the number of the page you are looking for, you might need to go onto page 2 for pagenum to appear
-#Length_search is the length of the video you are looking for, in seconds. 
+#url is the url of pornhub you are looking for, remove the number of the page you are looking for, you might need to go onto page 2 for pagenum to appear
+#Length_search is the length of the video you are looking for, in seconds..
 url = "https://www.pornhub.com/video?c=492&max_duration=10&hd=1&page="
 length_search = 318
 
